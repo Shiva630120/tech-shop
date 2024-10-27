@@ -1,0 +1,110 @@
+
+
+
+.cartrelated{
+    /* border:3px solid red; */
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+   
+}
+.cartborder{
+    border-bottom:3px solid white;
+    height:300px;
+    width:80%;
+    margin: 20px;
+    overflow: auto;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.cartinfomation{
+    /* border:3px cyan solid; */
+    width:30%;
+    margin: 20px;
+    margin-left: 170px;
+
+}
+.cartone{
+
+    margin:20px;    
+    height:250px;
+    width:300px;   
+ }
+ .carttwo{
+    
+    margin:20px; 
+    margin-right: 100px;
+    height:250px;
+    width:500px;
+    
+ }
+ .totalpriceborder{
+    border-top:3px solid white;
+    margin-top:20px;
+    margin-bottom:20px;
+    padding-top: 20px;
+
+ }
+ .checkout{
+    margin-left:10px;
+    margin-right:10%;
+    padding-left:30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    text-align:center;
+    background-color:orangered;
+    color:white;
+ }
+ .left{
+    margin-left:60px;
+ }
+ img{
+    height: 100%;
+    width:100%;
+
+ }
+ .plus{
+    border:1px solid gray;
+    display: flex;
+    width:120px;
+    padding:4px;
+    justify-content: space-between;
+ }
+ .minus{
+    padding-left: 10px;
+    padding-right:10px;
+ }
+ 
+ .minusone{
+    border:1px solid black;
+    color:red;
+    padding-left: 15px;
+    padding-right:15px;
+    background-color: black;
+
+    
+ }
+ .margintopoverflow{
+    margin-top: 80px;
+ }
+ .deletesymmmm{
+    margin-right:30px;
+ }
+ .borderrrrtoppp{
+    border-bottom:5px solid white;
+ }
+ .rowwise{
+    border: solid rgb(35, 34, 34);
+    height:500px;
+    width: 60%;
+     overflow:auto ;
+
+ }
+ 
+
+
+
+
